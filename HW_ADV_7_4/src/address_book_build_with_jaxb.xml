@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<country>
+    <city size="big">
+        <building>27</building>
+        <town>Kiev</town>
+        <street>Student's</street>
+    </city>
+    <city size="big">
+        <building>34</building>
+        <town>Kiev</town>
+        <street>Lower shaft</street>
+    </city>
+    <city size="middle">
+        <building>57</building>
+        <town>Odessa</town>
+        <street>Szeged</street>
+    </city>
+    <city size="middle">
+        <building>21</building>
+        <town>Odessa</town>
+        <street>Chernyakhovsky</street>
+    </city>
+    <city size="little">
+        <building>14</building>
+        <town>Izmail</town>
+        <street>Osypenka</street>
+    </city>
+</country>

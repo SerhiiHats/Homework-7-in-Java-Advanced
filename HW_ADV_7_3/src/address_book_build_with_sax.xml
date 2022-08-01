@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<country>
+    <town>
+        <city size="big">Kiev</city>
+        <street>Sich shooters</street>
+        <building>77</building>
+    </town>
+    <town>
+        <city size="big">Kiev</city>
+        <street>Architect Horodetskyi</street>
+        <building>15</building>
+    </town>
+    <town>
+        <city size="middle">Odessa</city>
+        <street>Velika Arnautska</street>
+        <building>37</building>
+    </town>
+    <town>
+        <city size="middle">Odessa</city>
+        <street>Ekaterininskaya</street>
+        <building>67</building>
+    </town>
+    <town>
+        <city size="little">Izmail</city>
+        <street>Bazarnaya</street>
+        <building>22</building>
+    </town>
+</country>
